@@ -1,0 +1,99 @@
+/*fuente*/
+@import "https://fonts.googleapis.com/css?family=Ubuntu";
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+/*cuerpo*/
+body{
+  background-color: #F2F2F2;
+font-family: 'Montserrat', sans-serif;
+}
+
+.titulo{
+  text-align:center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.contenedor
+{
+  text-align: justify;
+}
+
+.parrafo1{
+  text-align: justify;
+  height:10px;
+}
+
+.p{
+  text-align:justify;
+  width: 1050px;
+  margin: 0 auto;
+}
+
+.titulos{
+  font-family: 'Montserrat', sans-serif;;
+  font-size: 90px;
+  font-weight: bold;
+}
+
+.parrafo2{
+  margin: 0 auto;
+  width: 1050px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: justify;
+}
+/*
+.fotos
+{
+  text-align: center;
+  width: 700px;
+  margin: 0 auto;
+}
+*/
+.caja
+{
+  width: 950px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.negro
+{
+  font-weight: bold;
+}
+
+.justo
+{
+  text-align: center;
+}
+
+.ancho
+{
+  width: 590px;
+  margin: 0 auto;
+}
+
+ /*Enlaces de peliculas*/
+a
+{
+  font-family: 'Montserrat', sans-serif;f;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 3px;
+}
+
+/*Parrafos*/
+.p1{
+  text-align:center;
+  width: 1050px;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+
+.p2{
+  text-align:center;
+  width: 1050px;
+  margin: 0 auto;
+  font-weight: bold;
+}
